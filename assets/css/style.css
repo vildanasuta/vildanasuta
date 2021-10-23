@@ -1022,79 +1022,7 @@ section {
   border-color: #ffb727;
   background: #ffb727;
 }
-.contact .php-email-form {
-  box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
-  padding: 27px;
-}
-.contact .php-email-form .validate {
-  display: none;
-  color: red;
-  margin: 0 0 15px 0;
-  font-weight: 400;
-  font-size: 13px;
-}
-.contact .php-email-form .error-message {
-  display: none;
-  color: #fff;
-  background: #ed3c0d;
-  text-align: left;
-  padding: 15px;
-  font-weight: 600;
-}
-.contact .php-email-form .error-message br + br {
-  margin-top: 25px;
-}
-.contact .php-email-form .sent-message {
-  display: none;
-  color: #fff;
-  background: #18d26e;
-  text-align: center;
-  padding: 15px;
-  font-weight: 600;
-}
-.contact .php-email-form .loading {
-  display: none;
-  background: #fff;
-  text-align: center;
-  padding: 15px;
-}
-.contact .php-email-form .loading:before {
-  content: "";
-  display: inline-block;
-  border-radius: 50%;
-  width: 24px;
-  height: 24px;
-  margin: 0 10px -6px 0;
-  border: 3px solid #18d26e;
-  border-top-color: #eee;
-  -webkit-animation: animate-loading 1s linear infinite;
-  animation: animate-loading 1s linear infinite;
-}
-.contact .php-email-form input, .contact .php-email-form textarea {
-  border-radius: 0;
-  box-shadow: none;
-  font-size: 14px;
-}
-.contact .php-email-form input::focus, .contact .php-email-form textarea::focus {
-  background-color: #ffb727;
-}
-.contact .php-email-form input {
-  padding: 10px 15px;
-}
-.contact .php-email-form textarea {
-  padding: 12px 15px;
-}
-.contact .php-email-form button[type=submit] {
-  background: #ffb727;
-  border: 0;
-  padding: 10px 24px;
-  color: #fff;
-  transition: 0.4s;
-  border-radius: 5px;
-}
-.contact .php-email-form button[type=submit]:hover {
-  background: #ffc85a;
-}
+
 @-webkit-keyframes animate-loading {
   0% {
     transform: rotate(0deg);
@@ -1179,4 +1107,51 @@ section {
 }
 #footer .credits {
   font-size: 13px;
+}
+.col-lg-6 label{
+  display: block;
+  padding: 5px;
+}
+.col-lg-6 textarea{
+  display:block;
+  height:250px;
+  width:400px;
+}
+.email{
+  width:339px;
+  margin-left: 8px;
+}
+.subject{
+  width:336px;
+}
+
+
+.col-lg-6 button {
+  height:40px;
+  width: 100px;
+  margin-left:165px;
+  background: #ffb727;
+  border: 0;
+  padding: 10px 24px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 5px;
+}
+.col-lg-6 form{
+  margin-left:30px;
+  padding:45px;
+  background: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size:large;
+  border-color: #f3a200;
+  border-style:double;
+
+}
+.col-lg-6 input{
+  border:hidden;
+  border-bottom: 2px solid #f3a200;
+  
+}
+.col-lg-6 textarea{
+  border-style: dashed;
 }
