@@ -13,22 +13,18 @@ $(document).ready(function(){
         else{
             status.append('<div>Email is not valid!</div>')
             evt.preventDefault();
-
         }
         if(subject.length>2){
         }
         else{
             status.append('<div>Subject is not valid!</div>')
             evt.preventDefault();
-
-
         }
         if(message.length>10){
         }
         else{
             status.append('<div>Message is not valid!</div>')
             evt.preventDefault();
-
         }
 
     })
