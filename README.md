@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vildanasuta
-- 👀 I’m interested in mainly Web Development
-- 🌱 I’m currently learning JavaScript & C#
+- 👀 Interested in mainly Web Development
+- 🌱 Currently learning Vue.js
 - 💌 Find more about me on https://vildanasuta.github.io/vildanasuta/
 
