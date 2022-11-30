@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @vildanasuta
-- 👀 Interested in mainly Web Development
-- 🌱 Currently learning Vue.js
+- 🌱 Currently learning Java and Springboot
 - 💌 Find more about me on https://vildanasuta.github.io/vildanasuta/
 
