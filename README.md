@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @vildanasuta
-- 🌱 Currently learning Java and Springboot
+- 🌱 Currently working with .NET Core
 - 💌 Find more about me on https://vildanasuta.github.io/vildanasuta/
 
